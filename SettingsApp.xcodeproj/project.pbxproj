@@ -11,6 +11,7 @@
 		8C4B93E51A99401C00DEEBC2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C4B93E41A99401C00DEEBC2 /* AppDelegate.m */; };
 		8C4B93ED1A99401C00DEEBC2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C4B93EC1A99401C00DEEBC2 /* Images.xcassets */; };
 		8C4B93F01A99401C00DEEBC2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C4B93EE1A99401C00DEEBC2 /* LaunchScreen.xib */; };
+		8C4B94061A9C3F6400DEEBC2 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8C4B94051A9C3F6400DEEBC2 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		8C4B93E41A99401C00DEEBC2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8C4B93EC1A99401C00DEEBC2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8C4B93EF1A99401C00DEEBC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		8C4B94051A9C3F6400DEEBC2 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				8C4B93E31A99401C00DEEBC2 /* AppDelegate.h */,
 				8C4B93E41A99401C00DEEBC2 /* AppDelegate.m */,
+				8C4B94051A9C3F6400DEEBC2 /* Settings.bundle */,
 				8C4B93EC1A99401C00DEEBC2 /* Images.xcassets */,
 				8C4B93EE1A99401C00DEEBC2 /* LaunchScreen.xib */,
 				8C4B93DF1A99401C00DEEBC2 /* Supporting Files */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C4B93F01A99401C00DEEBC2 /* LaunchScreen.xib in Resources */,
+				8C4B94061A9C3F6400DEEBC2 /* Settings.bundle in Resources */,
 				8C4B93ED1A99401C00DEEBC2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
